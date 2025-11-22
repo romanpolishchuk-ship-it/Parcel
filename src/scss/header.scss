@@ -1,0 +1,15 @@
+header {
+  display: flex;
+  & .logo {
+    width: 4.75rem;
+  }
+  & .links {
+    display: flex;
+  }
+  & .auth-button {
+    display: flex;
+  }
+  & nav {
+    display: flex;
+  }
+}
