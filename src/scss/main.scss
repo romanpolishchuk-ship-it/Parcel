@@ -1,0 +1,8 @@
+@import url(./base.scss);
+
+h1 {
+  background-color: green;
+  &:hover {
+    background-color: aqua;
+  }
+}
